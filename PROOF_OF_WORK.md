@@ -3,6 +3,7 @@
 ## 1. Git Log (git log --oneline)
 
 ```
+3825a63 (HEAD -> main, origin/main) Update PROOF_OF_WORK.md with final reflection answers
 20315b5 Add PROOF_OF_WORK.md with git log and reflection answers
 668afce Merge pull request #1 from Hassan-Zahid-07/development
 c62e7e7 (origin/development, development) Merge staging into development: resolve deploy.sh conflict
